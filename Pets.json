@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Meowsalot",
+    "species": "cat",
+    "foods": ["Tuna","Chicken","Canned Food"],
+    "dislikes":["Loud Noises","Wake Up", "Other Cats"]
+  },
+  {
+    "name": "Barky",
+    "species": "dog",
+    "foods": ["Bones","Cat's Shit","Canned Food"],
+    "dislikes":["Loud Noises","Cats", "Garbage Truck"]
+  }
+]
